@@ -1,0 +1,7 @@
+<Solution>
+  <Project Path="Funciones/Funciones.csproj" Id="8d203c0d-191a-40b3-a6cd-25cbee5c6ad0" />
+  <Project Path="SentenciaIfElse/SentenciaIfElseIf.csproj" Id="123f4b1a-f85c-4777-8f15-5d86d320d3fc" />
+  <Project Path="SentenciaSwitch/SentenciaSwitch.csproj" Id="ed8b89b6-3850-433c-9a78-a9b93f419736" />
+  <Project Path="TipoDeDatos/TipoDeDatos.csproj" Id="2f2b88dd-875d-403b-af4c-4f16a0d50637" />
+  <Project Path="Variables/Variables.csproj" Id="b6145abd-d658-4ba8-8b2f-be7fb3635feb" />
+</Solution>
